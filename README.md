@@ -14,10 +14,10 @@
 
 ## 📌 Projetos
 
-- 🌸 **[Sakura](LINK-DO-REPO)**: site de artesanatos
-- 🐾 **[Lar Doce Patas](LINK-DO-REPO)**: landing page de uma ONG fictícia de adoção de animais, feita em React (TCC do Start Tech)
-- 👟 **[Douglas Calçados](LINK-DO-REPO)**: projeto para cliente real
+- 🌸 **[Sakura]([LINK-DO-REPO](https://pretcc.github.io/Sakura-Site/))**: Site de artesanatos (TCC Percorre)
+- 🐾 **[Lar Doce Patas]((https://lar-doce-patas-site.vercel.app/))**: Landing page de uma ONG fictícia de adoção de animais, feita em React 
+- 👟 **[DGimport Calçados](LINK-DO-REPO)**: Projeto para cliente 
 
 ## 📫 Contato
 
-[LinkedIn](SEU-LINK) • [Portfólio](SEU-LINK)
+[LinkedIn](SEU-LINK) • [Portfólio](https://sabrinaoliveira-dot.github.io/Portifolio-Sabrina/))
